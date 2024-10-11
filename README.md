@@ -1,5 +1,8 @@
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
 
+# NAME.-DEEPIKA.G
+# REG.NO.-24900999
+
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
  
@@ -36,7 +39,6 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
- 
+ ![EDM EX1 2](https://github.com/user-attachments/assets/15746cc6-eec5-417a-a68a-3dbb22b97f89)
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
