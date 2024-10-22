@@ -39,7 +39,5 @@
 
  ## OUTPUT
  ![EDM 1 2 DEEPIKA](https://github.com/user-attachments/assets/5ca1ed4d-f32c-4778-8ed3-63e58544f6b5)
-
- 
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
